@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Techno Study](https://campus.techno.study/)
 
-- 🌱 I’m currently learning **TestNG, Cucumber**
+- 🌱 I’m currently learning **Cucumber, Apache POI, MySQL, Postman, REST Assured**
 
 - 👨‍💻 All of my projects are available at [http://www.tunahanboyaci.com/](http://www.tunahanboyaci.com/)
 
 - 📝 I regularly write articles on [http://www.tunahanboyaci.com/](http://www.tunahanboyaci.com/)
 
-- 💬 Ask me about **Java, HTML, Selenium**
+- 💬 Ask me about **Java, HTML, Selenium, TestNG**
 
 - 📫 How to reach me **tunahanboyaci1@gmail.com**
 
