@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Techno Study](https://campus.techno.study/)
+- 🔭 I’m currently working on [Mersys](https://campus.techno.study/)
 
 - 🌱 I’m currently learning **Postman, REST Assured**
 
