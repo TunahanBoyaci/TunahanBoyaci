@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Mersys](https://campus.techno.study/)
 
-- 🌱 I’m currently learning **Postman, REST Assured**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [http://www.tunahanboyaci.com/](http://www.tunahanboyaci.com/)
 
 - 📝 I regularly write articles on [http://www.tunahanboyaci.com/](http://www.tunahanboyaci.com/)
 
-- 💬 Ask me about **Java, HTML, Selenium, TestNG, Cucumber, Apache POI, MySQL**
+- 💬 Ask me about **Java, HTML, Selenium, TestNG, Cucumber, Apache POI, MySQL, Postman, REST Assured, Jenkins**
 
 - 📫 How to reach me **tunahanboyaci1@gmail.com**
 
