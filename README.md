@@ -13,10 +13,9 @@
 
 - 💬 Ask me about **Java, HTML, Selenium, TestNG, Cucumber, Apache POI, MySQL, Postman, REST Assured, Jenkins, Zoho Deluge, OpenRPA**
 
-- 📫 How to reach me **tunahanboyaci1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+tunahanboyaci1@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
