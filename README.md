@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 👨‍💻 All of my projects are available at [http://www.tunahanboyaci.com/](http://www.tunahanboyaci.com/)
-
 - 📝 I regularly write articles on [http://www.tunahanboyaci.com/](http://www.tunahanboyaci.com/)
 
 - 💬 Ask me about **Java, HTML, Selenium, TestNG, Cucumber, Apache POI, MySQL, Postman, REST Assured, Jenkins, Zoho Deluge, OpenRPA**
